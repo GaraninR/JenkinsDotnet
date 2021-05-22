@@ -26,7 +26,7 @@ namespace dotnet
         [Test]
         public void Test4()
         {
-            Assert.IsTrue(True);
+            Assert.IsTrue(true);
         }
     }
 }
